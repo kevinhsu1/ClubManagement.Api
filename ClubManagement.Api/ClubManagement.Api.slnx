@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="ClubManagement.Api.Tests/ClubManagement.Api.Tests.csproj" Id="6e5392bb-f948-4248-93a4-622ff7a97601" />
+  <Project Path="ClubManagement.Api/ClubManagement.Api.csproj" />
+</Solution>
